@@ -63,7 +63,8 @@ minuscules suivi de deux points :
 | `fix:` | tu corriges un bug déjà prouvé par un test rouge | du code de production |
 | `chore:` | outillage, configuration, documentation | tout le reste |
 
-**Règle 3.** Un commit `green:` doit toujours être précédé d'un commit `red:`. Sans
+**Règle 3.** Un commit `gr
+een:` doit toujours être précédé d'un commit `red:`. Sans
 exception, sur le module développé en TDD.
 
 **Règle 4.** Un commit `red:` doit réellement être rouge. On vérifiera en rejouant
